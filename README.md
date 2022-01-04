@@ -7,3 +7,8 @@
 - `> nom-du-fichier.extension` : permet de créer un fichier
 - `cat nom-du-fichier.extension` : permet d'afficher le contenu d'un fichier
 - `mv nom-du-fichier.extension nouveau-nom.extension` : permet de renomer un fichier
+
+# les commandes git
+- `git init` : initialise un depot local dans le repertoire
+- `git add non-du-fichier.extension` : ajoute les modifications du fichier
+- `git commit -m "la description des modifications"` : faire un commit
